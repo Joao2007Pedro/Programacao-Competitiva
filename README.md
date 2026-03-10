@@ -41,7 +41,6 @@ Os exercícios estão organizados em pastas conforme:
 
 * Treinos
 * Competições
-* Listas de exercícios
 
 Cada arquivo contém a **implementação da solução para um problema específico**.
 
